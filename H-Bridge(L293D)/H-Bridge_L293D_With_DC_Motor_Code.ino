@@ -1,3 +1,5 @@
+// To control the current the L293D H-Bridge was modified. Thus, IRF540 mosfet transistors were used. 
+
 # define MP1 11   // The pin that attached to the gate of the pnp mosfet 1.
 # define MP2 10  // The pin that attached to the gate of the pnp mosfet 2.
 
